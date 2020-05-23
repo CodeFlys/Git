@@ -8,6 +8,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        // TODO TiT123: 2020-05-23  
+        // TODO TiT123: 2020-05-23
+
+
     }
 }
