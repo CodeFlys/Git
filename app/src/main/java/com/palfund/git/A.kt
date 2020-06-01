@@ -6,5 +6,5 @@ package com.palfund.git
  * 版本：v 1.0
  * 描述：
  */
-class A {
+class A {//000
 }
