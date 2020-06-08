@@ -8,3 +8,6 @@ package com.palfund.git
  */
 class A {//000
 }//000
+
+
+// CopyGit 1
