@@ -8,4 +8,3 @@ package com.palfund.git
  */
 class A {
 }
-// A1
