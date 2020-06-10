@@ -8,7 +8,4 @@ package com.palfund.git
  */
 class A {//000
 }
-// git add .
-// git commit --amend -m "000"
-// git commit --amend --no-edit 不编辑信息
-// A1
+//000
