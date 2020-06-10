@@ -9,6 +9,3 @@ package com.palfund.git
 class A {//000
 }
 // A1
-// A2
-// A3
-// A4
