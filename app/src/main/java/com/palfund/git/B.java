@@ -6,5 +6,5 @@ package com.palfund.git;
  * @date 2020-06-10 12:19
  * @des
  */
-public class B {
+public class B {//  B
 }
