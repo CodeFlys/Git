@@ -10,3 +10,4 @@ package com.palfund.git
 class C {// C
 }//CC
 
+//
