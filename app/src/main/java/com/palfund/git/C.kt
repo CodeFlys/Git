@@ -6,5 +6,5 @@ package com.palfund.git
  * @version v 1.0
  * @des
  */
-class C {
+class C {// C
 }
